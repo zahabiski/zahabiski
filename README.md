@@ -10,7 +10,7 @@
 </div>
 
 # About Me:
-<div align="center">AI Engineer · MLOps Tinkerer<br>Building intelligent systems that actually do things</div><br><br>🧬 About Me<br>Hey! I'm a builder obsessed with turning AI research into real products. Currently working on Saas Project — an AI-powered enrollment assistant</div>
+<div align="center">AI Engineer · MLOps Tinkerer<br>Building intelligent systems that actually do things</div><br><br>About Me<br>I'm a builder obsessed with turning AI research into real products. Currently working on Saas Project — an AI-powered enrollment assistant</div>
 
 
 # Tech Stack:
