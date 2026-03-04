@@ -1,12 +1,13 @@
-                                                                                                                                                          ```
-                                                                                                                                                          ███████╗ █████╗ ██╗  ██╗ █████╗ 
-                                                                                                                                                          ╚══███╔╝██╔══██╗██║  ██║██╔══██╗
-                                                                                                                                                            ███╔╝ ███████║███████║███████║
-                                                                                                                                                           ███╔╝  ██╔══██║██╔══██║██╔══██║
-                                                                                                                                                          ███████╗██║  ██║██║  ██║██║  ██║
-                                                                                                                                                          ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-                                                                                                                                                          ```
-
+<div align="center">
+  ```
+  ███████╗ █████╗ ██╗  ██╗ █████╗ 
+  ╚══███╔╝██╔══██╗██║  ██║██╔══██╗
+    ███╔╝ ███████║███████║███████║
+   ███╔╝  ██╔══██║██╔══██║██╔══██║
+  ███████╗██║  ██║██║  ██║██║  ██║
+  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+  ```
+</div>
 
 # 💫 About Me:
 <div align="center">AI Engineer · MLOps Tinkerer<br>Building intelligent systems that actually do things</div><br><br>🧬 About Me<br>Hey! I'm a builder obsessed with turning AI research into real products. Currently working on Find Yourself — an AI-powered platform helping students navigate university enrollment, because humans deserve better than expensive consultants and endless paperwork.<br><br>🔭  Building: Find Yourself — AI agents for university enrollment guidance<br>🧠  Exploring: LangGraph multi-agent systems & RAG pipelines<br>☁️  Deploying: Production-grade ML on AWS + Kubernetes<br>⚡  Obsessed with: Making AI fast, affordable & actually useful<br><br><br>🛠️ Tech Stack<br>🐍 AI / ML<br>Show Image<br>Show Image<br>Show Image<br><br>🕸️ LangGraph for stateful multi-agent orchestration — because chains are so 2023<br><br>☁️ Infrastructure & DevOps<br>Show Image<br>Show Image<br>Show Image<br>Show Image<br><br>🚀 Featured Project<br><table><br><tr><br><td width="60%"><br>🎓 Find Yourself<br><br>AI agents that replace expensive human consultants for university enrollment<br><br><br>🤖 LLM-powered Q&A with RAG over university data<br>📚 Helping Ukrainian students enroll at European universities<br>💬 Available 24/7 — no appointments, no waiting<br>💸 Fraction of the cost of traditional consultants<br><br></td><br><td width="40%" align="center"><br>```<br>Student asks question<br>       ↓<br>  RAG retrieval<br>       ↓<br>  LLM response<br>       ↓<br> Problem solved ✅<br>```<br></td><br></tr><br></table><br><br>📊 GitHub Stats<br><div align="center"><br>Show Image<br>Show Image<br></div><br><br>🤝 Let's Collaborate!<br>I'm open to collaborating on:<br><br>🧠 AI / LLM-powered products<br>🎓 EdTech & access-to-education projects<br>🤖 MLOps & agent infrastructure<br><br><div align="center"><br>Show Image<br>Show Image<br>Show Image<br>"The best model is the one that ships." 🚢<br></div>
